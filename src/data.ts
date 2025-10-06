@@ -27,7 +27,7 @@ export const projects: Project[] = [
 export const experiences: Experience[] = [
   {
     id: 1,
-    title: "Data Analyst (Contract)",
+    title: "AI Analyst",
     company: "Tech Mahindra Limited",
     location: "Hyderabad, India",
     duration: "2023",
